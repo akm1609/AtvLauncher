@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 320x180 TV banner: plain dark tile with a house mark -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp" android:height="180dp"
+    android:viewportWidth="320" android:viewportHeight="180">
+    <path android:fillColor="#111318" android:pathData="M0,0h320v180h-320z" />
+    <path android:fillColor="#E8EAED"
+        android:pathData="M160,50 L205,90 L193,90 L193,130 L170,130 L170,105 L150,105 L150,130 L127,130 L127,90 L115,90 Z" />
+</vector>

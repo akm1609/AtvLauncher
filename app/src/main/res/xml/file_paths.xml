@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- USB drives live at /storage/<id>/..., outside the standard FileProvider roots. -->
+<paths>
+    <root-path name="root" path="." />
+</paths>

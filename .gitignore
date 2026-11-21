@@ -1,0 +1,14 @@
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+.DS_Store
+*.apk
+
+# Personal media (wallpapers/screensaver sources) stay out of the repo
+*.mov
+*.MOV
+*.mp4
